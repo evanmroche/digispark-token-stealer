@@ -4,6 +4,7 @@
 
 **Use:**
 1. Edit the email and password values in **stealer.ino**, Directions are below
+
    -The email you wish to send the password file from (Please do not use your main email address)
    -The sending email password
    -The email on which you want to recieve the passwords (can be the same)
