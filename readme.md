@@ -5,7 +5,7 @@
 **Use:**
 1. Edit the email and password values in **stealer.ino**, Directions are below
 
-   -The email you wish to send the password file from (Please do not use your main email address)
+   -The email you wish to send the password file from ***must be gmail!*** (Please do not use your main email address)
 
    -The sending email password
 
